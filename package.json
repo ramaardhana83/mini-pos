@@ -1,0 +1,22 @@
+{
+  "name": "mini-pos",
+  "version": "1.0.0",
+  "description": "Mini POS System - OOP Practice",
+  "type": "module",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/main.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [
+    "oop",
+    "typescript",
+    "pos"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
